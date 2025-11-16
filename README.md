@@ -61,7 +61,7 @@ Used Recency, Frequency, and Monetary analysis to segment customers into 9 group
 - Test A/B testing framework for offers
 
 ## Contact
-Javar Scott - [LinkedIn](https://linkedin.com/in/javar-scott)
+Javar Scott - [LinkedIn](https://linkedin.com/in/javarscott)
 
 ---
 *Project demonstrates customer analytics and segmentation skills applicable to retail/restaurant businesses.*
