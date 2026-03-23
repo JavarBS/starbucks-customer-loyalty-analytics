@@ -52,7 +52,7 @@ Used Recency, Frequency, and Monetary analysis to segment customers into 9 group
 
 ## How to Run
 1. Download the Starbucks dataset from Kaggle
-2. Open the Jupyter notebook
+2. Open the Jupyter notebook [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/JavarBS/sql-data-analytics-project/blob/main/customer_behavior_analysis.ipynb)
 3. Run all cells
 
 ## Next Steps
