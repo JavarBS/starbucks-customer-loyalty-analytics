@@ -4,6 +4,11 @@
 ## Overview
 Analysis of Starbucks customer purchase patterns and loyalty program effectiveness using Python. This project explores customer segmentation, spending behaviors, and offer performance to identify opportunities for revenue growth.
 
+## How to Run
+1. Download the Starbucks dataset from Kaggle
+2. Open the Jupyter notebook [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/JavarBS/sql-data-analytics-project/blob/main/customer_behavior_analysis.ipynb)
+3. Run all cells
+
 ## Key Questions Explored
 - Who are the highest value customers?
 - Which customer segments should we focus on?
@@ -49,11 +54,6 @@ Used Recency, Frequency, and Monetary analysis to segment customers into 9 group
 ## Files
 - `customer_behavior_analysis.ipynb` - Main analysis notebook
 - `README.md` - This file
-
-## How to Run
-1. Download the Starbucks dataset from Kaggle
-2. Open the Jupyter notebook [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/JavarBS/sql-data-analytics-project/blob/main/customer_behavior_analysis.ipynb)
-3. Run all cells
 
 ## Next Steps
 - Build predictive model for customer churn
